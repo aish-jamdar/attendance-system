@@ -32,15 +32,15 @@ It captures facial data, recognizes registered users, and automatically marks at
 ## 🔹 Project Structure
 attendance-system/
 │
-├── attendance.py
-├── dataset.py
-├── haarcascade_frontalface_default.xml
-├── bg.png
-├── data/
-├── Attendance/
-├── requirements.txt
-├── README.md
-└── .gitignore
+├── attendance.py<br/>
+├── dataset.py<br/>
+├── haarcascade_frontalface_default.xml<br/>
+├── bg.png<br/>
+├── data/<br/>
+├── Attendance/<br/>
+├── requirements.txt<br/>
+├── README.md<br/>
+└── .gitignore<br/>
 
 
 ---
