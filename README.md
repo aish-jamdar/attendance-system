@@ -30,7 +30,7 @@ It captures facial data, recognizes registered users, and automatically marks at
 ---
 
 ## 🔹 Project Structure
-attendance-system/
+attendance-system/<br/>
 │
 ├── attendance.py<br/>
 ├── dataset.py<br/>
