@@ -33,7 +33,7 @@ It captures facial data, recognizes registered users, and automatically marks at
 attendance-system/
 │
 ├── attendance.py
-├── face_data_collection.py
+├── dataset.py
 ├── haarcascade_frontalface_default.xml
 ├── bg.png
 ├── data/
@@ -81,7 +81,7 @@ git clone https://github.com/aish-jamdar/attendance-system.git
 pip install -r requirements.txt
 
 3. Run face registration:
-python face_data_collection.py
+python dataset.py
 
 4. Run attendance system:
 python attendance.py
